@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_qpYsIAfxEeayuZkyE5xQEA" name="coupons" dataPackage="_qph2EAfxEeayuZkyE5xQEA" Server="Localhost 127.0.0.1" FilePath="C:/Akila/Transrequest/coupon.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_qph2EAfxEeayuZkyE5xQEA" name="default" dataManager="_qpYsIAfxEeayuZkyE5xQEA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_qph2EQfxEeayuZkyE5xQEA" id="_P5s9cAfxEeayuZkyE5xQEA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_YArvEeaYbOVG20i5vw" name="CouponsOnlyBatchNumber" label="CouponsOnlyBatchNumber" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_YQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_YgrvEeaYbOVG20i5vw" name="TerminalNumber" label="TerminalNumber" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_YwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_ZArvEeaYbOVG20i5vw" name="StatusCode" label="StatusCode" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_ZQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_ZgrvEeaYbOVG20i5vw" name="OperateModeCode" label="OperateModeCode" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_ZwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_aArvEeaYbOVG20i5vw" name="CreateUserName" label="CreateUserName" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_aQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_agrvEeaYbOVG20i5vw" name="ProfileName_Snap" label="ProfileName_Snap" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_awrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_bArvEeaYbOVG20i5vw" name="CouponDefinitionName_Snap" label="CouponDefinitionName_Snap" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_bQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_bgrvEeaYbOVG20i5vw" name="ImageFolderPath" label="ImageFolderPath" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_bwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_cArvEeaYbOVG20i5vw" name="CreateDate" label="CreateDate" length="-1" precision="-1" sourceType="DATE" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;" originalLength="-1">
+        <initialValue xmi:id="_LM8_cQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_cgrvEeaYbOVG20i5vw" name="ModifyDate" label="ModifyDate" length="-1" precision="-1" sourceType="DATE" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;" originalLength="-1">
+        <initialValue xmi:id="_LM8_cwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_dArvEeaYbOVG20i5vw" name="CouponNumber" label="CouponNumber" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_dQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_dgrvEeaYbOVG20i5vw" name="FrontImageFileName" label="FrontImageFileName" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_dwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_eArvEeaYbOVG20i5vw" name="BackImageFileName" label="BackImageFileName" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_eQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_egrvEeaYbOVG20i5vw" name="FormCode" label="FormCode" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_ewrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_fArvEeaYbOVG20i5vw" name="FORMID" label="FORMID" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_fQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_fgrvEeaYbOVG20i5vw" name="ckBoxTermSell" label="ckBoxTermSell" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_fwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_gArvEeaYbOVG20i5vw" name="ckBoxTermIssue" label="ckBoxTermIssue" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_gQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_ggrvEeaYbOVG20i5vw" name="ckBoxContinueSell" label="ckBoxContinueSell" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_gwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_hArvEeaYbOVG20i5vw" name="ckBoxContIssue" label="ckBoxContIssue" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_hQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_hgrvEeaYbOVG20i5vw" name="ckBoxOptionalCash" label="ckBoxOptionalCash" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_hwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_iArvEeaYbOVG20i5vw" name="ckBoxDepositShares" label="ckBoxDepositShares" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_iQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_igrvEeaYbOVG20i5vw" name="ckBoxChangeAddress" label="ckBoxChangeAddress" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_iwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_jArvEeaYbOVG20i5vw" name="AmountOptionalCash" label="AmountOptionalCash" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_jQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_jgrvEeaYbOVG20i5vw" name="AmountContSell" label="AmountContSell" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_jwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_kArvEeaYbOVG20i5vw" name="AmountContIssue" label="AmountContIssue" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_kQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_kgrvEeaYbOVG20i5vw" name="AmountDepositShares" label="AmountDepositShares" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_kwrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LM8_lArvEeaYbOVG20i5vw" name="CharsCompanyAccount" label="CharsCompanyAccount" length="-1" precision="-1" sourceType="VARCHAR" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_LM8_lQrvEeaYbOVG20i5vw" body=""/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

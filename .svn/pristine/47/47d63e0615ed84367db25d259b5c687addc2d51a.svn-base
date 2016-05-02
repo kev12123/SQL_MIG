@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="password" prompt="password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="schema" prompt="schema?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="filename_context" prompt="filename_context?" promptNeeded="true" type="id_File" value="C:/TalendScript/eda_context.txt"/>
+    <contextParameter comment="" name="filename" prompt="filename" promptNeeded="true" type="id_File" value="//filesrv/IT/Programmers/Akila/Transrequest/TransShare.txt"/>
+    <contextParameter comment="" name="address" prompt="address?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="unisysca" prompt="unisysca?" promptNeeded="false" type="id_String" value="C:/Akila/unisysca/"/>
+    <contextParameter comment="" name="unisyssh" prompt="unisyssh?" promptNeeded="false" type="id_String" value="C:/Akila/unisyssh/"/>
+    <contextParameter comment="" name="Mypath" prompt="Mypath?" promptNeeded="false" type="id_String" value="C:/Akila/Transrequest/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="dev">
+    <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="password" prompt="password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="schema" prompt="schema?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="filename_context" prompt="filename_context?" promptNeeded="true" type="id_File" value="/opt/eda_data/eda_context.txt"/>
+    <contextParameter comment="" name="filename" prompt="filename?" promptNeeded="true" type="id_File" value="/opt/eda_data/output/NCOA/BaseExtract/NcoaExtract.txt"/>
+    <contextParameter comment="" name="address" prompt="address?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="unisysca" prompt="unisysca?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="unisyssh" prompt="unisyssh?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mypath" prompt="Mypath?" promptNeeded="false" type="id_String" value="/mnt/IT/Programmers/Akila/Transrequest"/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Tp44UAJQEeaWw80478-8NQ" id="_GkQ9MAsUEeaYbOVG20i5vw" label="LoadNDRCEnrollmentCards" creationDate="2016-04-14T10:51:02.100-0400" modificationDate="2016-04-28T09:36:53.756-0400" version="0.1" statusCode="" item="_Tp5fYAJQEeaWw80478-8NQ" displayName="LoadNDRCEnrollmentCards">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_GlwK8AsUEeaYbOVG20i5vw" path="Transrequest"/>
+  <TalendProperties:ProcessItem xmi:id="_Tp5fYAJQEeaWw80478-8NQ" property="_Tp44UAJQEeaWw80478-8NQ" state="_GlwK8AsUEeaYbOVG20i5vw">
+    <process href="LoadNDRCEnrollmentCards_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

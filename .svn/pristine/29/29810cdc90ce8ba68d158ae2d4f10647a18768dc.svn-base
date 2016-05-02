@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_5vTFQeYZEeWhKKmVn-1HZQ" id="_5vTFQOYZEeWhKKmVn-1HZQ" label="LoadCCLreturnFile" creationDate="2016-03-09T12:11:02.804-0500" modificationDate="2016-05-02T12:01:29.800-0400" version="0.1" statusCode="" item="_5vc2QOYZEeWhKKmVn-1HZQ" displayName="LoadCCLreturnFile">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_JSp9MfqZEeW_8LX78hiiUg" path="Ncoa"/>
+  <TalendProperties:ProcessItem xmi:id="_5vc2QOYZEeWhKKmVn-1HZQ" property="_5vTFQeYZEeWhKKmVn-1HZQ" state="_JSp9MfqZEeW_8LX78hiiUg">
+    <process href="LoadCCLreturnFile_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

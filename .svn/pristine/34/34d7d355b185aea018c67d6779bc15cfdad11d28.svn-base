@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_LQio4AWfEeaWw80478-8NQ" id="_LQe-gAWfEeaWw80478-8NQ" label="LoadDirectFedCoupons" creationDate="2016-04-18T15:53:09.483-0400" modificationDate="2016-05-02T12:01:23.623-0400" version="0.1" statusCode="" item="_LQkeEAWfEeaWw80478-8NQ" displayName="LoadDirectFedCoupons">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LQio4QWfEeaWw80478-8NQ" path="Transrequest"/>
+  <TalendProperties:ProcessItem xmi:id="_LQkeEAWfEeaWw80478-8NQ" property="_LQio4AWfEeaWw80478-8NQ" state="_LQio4QWfEeaWw80478-8NQ">
+    <process href="LoadDirectFedCoupons_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

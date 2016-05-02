@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_LxQj0AAOEeaXn-4O6a2Wyw" id="_LxGy0AAOEeaXn-4O6a2Wyw" label="file_copy" creationDate="2016-04-11T13:52:40.061-0400" modificationDate="2016-04-29T09:45:57.555-0400" version="0.1" statusCode="" item="_LxQj0gAOEeaXn-4O6a2Wyw" maxInformationLevel="WARN" displayName="file_copy">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+    <informations xmi:id="_s3CrcA4QEeaTBtBDVB9loA" level="WARN" text="The value of the local variable strMyCashFile is not used"/>
+    <informations xmi:id="_s3CrcQ4QEeaTBtBDVB9loA" level="WARN" text="The value of the local variable strTodayCashFile is not used"/>
+    <informations xmi:id="_s3Crcg4QEeaTBtBDVB9loA" level="WARN" text="Resource leak: 'Read_a' is never closed"/>
+    <informations xmi:id="_s3Crcw4QEeaTBtBDVB9loA" level="WARN" text="The value of the local variable file_a is not used"/>
+    <informations xmi:id="_s3CrdA4QEeaTBtBDVB9loA" level="WARN" text="The value of the local variable file_b is not used"/>
+    <informations xmi:id="_s3CrdQ4QEeaTBtBDVB9loA" level="WARN" text="The value of the local variable DQ is not used"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LxQj0QAOEeaXn-4O6a2Wyw" path=""/>
+  <TalendProperties:RoutineItem xmi:id="_LxQj0gAOEeaXn-4O6a2Wyw" property="_LxQj0AAOEeaXn-4O6a2Wyw" state="_LxQj0QAOEeaXn-4O6a2Wyw">
+    <content href="file_copy_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

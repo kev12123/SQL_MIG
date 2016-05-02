@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ndBbAfwCEeWe35D8RQ6yEg" id="_ndBbAPwCEeWe35D8RQ6yEg" label="LoadSkylineChecks" creationDate="2016-04-06T10:19:47.248-0400" modificationDate="2016-05-02T12:01:26.011-0400" version="0.1" statusCode="" item="_ndBbA_wCEeWe35D8RQ6yEg" displayName="LoadSkylineChecks">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ndBbAvwCEeWe35D8RQ6yEg" path="Transrequest"/>
+  <TalendProperties:ProcessItem xmi:id="_ndBbA_wCEeWe35D8RQ6yEg" property="_ndBbAfwCEeWe35D8RQ6yEg" state="_ndBbAvwCEeWe35D8RQ6yEg">
+    <process href="LoadSkylineChecks_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

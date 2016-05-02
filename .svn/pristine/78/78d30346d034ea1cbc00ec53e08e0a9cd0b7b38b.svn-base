@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="o_filename_1" prompt="o_filename_1?" promptNeeded="false" type="id_File" value="C:/Akila/Transrequest/coupons.csv"/>
+    <contextParameter comment="" name="o_filename_2" prompt="o_filename_2?" promptNeeded="false" type="id_File" value="C:/Akila/Transrequest/SkyCash.txt"/>
+    <contextParameter comment="" name="FinalPath" prompt="FinalPath?" promptNeeded="false" type="id_String" value="C:/Akila/Transrequest/result.dat"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Dev">
+    <contextParameter comment="" name="o_filename_1" prompt="o_filename_1?" promptNeeded="false" type="id_File" value="C:/Akila/Transrequest/coupons.csv"/>
+    <contextParameter comment="" name="o_filename_2" prompt="o_filename_2?" promptNeeded="false" type="id_File" value="C:/Akila/Transrequest/SkyCash.txt"/>
+    <contextParameter comment="" name="FinalPath" prompt="FinalPath?" promptNeeded="false" type="id_String" value="C:/Akila/Transrequest/result.dat"/>
+  </talendfile:ContextType>
+</xmi:XMI>

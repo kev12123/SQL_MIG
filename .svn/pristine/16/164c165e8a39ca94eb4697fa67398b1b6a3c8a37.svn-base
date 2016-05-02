@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_qph2LAfxEeayuZkyE5xQEA" id="_qo8AMAfxEeayuZkyE5xQEA" label="coupons" creationDate="2016-04-21T14:48:41.139-0400" modificationDate="2016-04-25T10:08:39.232-0400" version="0.1" statusCode="" item="_qph2LgfxEeayuZkyE5xQEA" displayName="coupons">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_qph2LQfxEeayuZkyE5xQEA" path=""/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_qph2LgfxEeayuZkyE5xQEA" property="_qph2LAfxEeayuZkyE5xQEA" state="_qph2LQfxEeayuZkyE5xQEA">
+    <connection href="coupons_0.1.item#_qpYsIAfxEeayuZkyE5xQEA"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

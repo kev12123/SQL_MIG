@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_XWjrkeX6EeWhKKmVn-1HZQ" id="_XWjrkOX6EeWhKKmVn-1HZQ" label="BaseFileExtraction" creationDate="2016-03-09T08:25:17.641-0500" modificationDate="2016-05-02T12:01:27.613-0400" version="0.1" statusCode="" item="_XWjrk-X6EeWhKKmVn-1HZQ" displayName="BaseFileExtraction">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_EF49YPqZEeW_8LX78hiiUg" path="Ncoa"/>
+  <TalendProperties:ProcessItem xmi:id="_XWjrk-X6EeWhKKmVn-1HZQ" property="_XWjrkeX6EeWhKKmVn-1HZQ" state="_EF49YPqZEeW_8LX78hiiUg">
+    <process href="BaseFileExtraction_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

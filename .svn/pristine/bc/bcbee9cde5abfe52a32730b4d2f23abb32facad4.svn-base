@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_2JbRkO9rEeW6JvF9jpoN_Q" id="_2JaqgO9rEeW6JvF9jpoN_Q" label="UploadMarketDataHist" creationDate="2016-03-21T09:50:17.897-0400" modificationDate="2016-04-18T13:00:17.103-0400" version="0.1" statusCode="" item="_2JdGwO9rEeW6JvF9jpoN_Q" displayName="UploadMarketDataHist">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_qWKiwPqLEeW_8LX78hiiUg" path="Marketdata"/>
+  <TalendProperties:ProcessItem xmi:id="_2JdGwO9rEeW6JvF9jpoN_Q" property="_2JbRkO9rEeW6JvF9jpoN_Q" state="_qWKiwPqLEeW_8LX78hiiUg">
+    <process href="UploadMarketDataHist_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_gFei4A1fEea1N4JNxHBuJw" id="_gFd70A1fEea1N4JNxHBuJw" label="MergeUpdate" creationDate="2016-04-28T12:37:30.766-0400" modificationDate="2016-04-28T12:37:30.766-0400" version="0.1" item="_gFei4g1fEea1N4JNxHBuJw">
+    <author href="../../../talend.project#_SuvtwADnEeawNq9b5z2sQw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_gFei4Q1fEea1N4JNxHBuJw" path="Generic/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_gFei4g1fEea1N4JNxHBuJw" property="_gFei4A1fEea1N4JNxHBuJw" state="_gFei4Q1fEea1N4JNxHBuJw" system="true" eltName="Generic">
+    <content href="MergeUpdate_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

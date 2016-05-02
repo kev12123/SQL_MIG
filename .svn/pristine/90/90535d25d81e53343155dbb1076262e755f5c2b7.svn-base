@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="sql2k_port" prompt="sql2k_port?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="sql2k_username" prompt="sql2k_username?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="sql2k_password" prompt="sql2k_password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter comment="" name="sql2k_schema" prompt="sql2k_schema?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

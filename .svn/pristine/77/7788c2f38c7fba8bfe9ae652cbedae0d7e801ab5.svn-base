@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_M6BN0PqLEeW_8LX78hiiUg" id="_M5__sPqLEeW_8LX78hiiUg" label="TeradataDropTargetTable" creationDate="2016-04-04T13:32:27.821-0400" modificationDate="2016-04-04T13:32:27.821-0400" version="0.1" item="_M6BN0vqLEeW_8LX78hiiUg">
+    <author href="../../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_M6BN0fqLEeW_8LX78hiiUg" path="Teradata/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_M6BN0vqLEeW_8LX78hiiUg" property="_M6BN0PqLEeW_8LX78hiiUg" state="_M6BN0fqLEeW_8LX78hiiUg" system="true" eltName="Teradata">
+    <content href="TeradataDropTargetTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_L_HUMAC_EeaXn-4O6a2Wyw" id="_L_GtIAC_EeaXn-4O6a2Wyw" label="CombineFilesRunJOb" creationDate="2016-04-12T10:59:42.451-0400" modificationDate="2016-05-02T10:13:08.176-0400" version="0.1" statusCode="" item="_L_IiUAC_EeaXn-4O6a2Wyw" displayName="CombineFilesRunJOb">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_L_H7QAC_EeaXn-4O6a2Wyw" path="Transrequest"/>
+  <TalendProperties:ProcessItem xmi:id="_L_IiUAC_EeaXn-4O6a2Wyw" property="_L_HUMAC_EeaXn-4O6a2Wyw" state="_L_H7QAC_EeaXn-4O6a2Wyw">
+    <process href="CombineFilesRunJOb_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

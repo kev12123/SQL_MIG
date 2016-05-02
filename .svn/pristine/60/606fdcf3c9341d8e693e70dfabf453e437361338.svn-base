@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_39F7UPtjEeW8j_cFwDEObg" id="_38sSsPtjEeW8j_cFwDEObg" label="SQL2K" creationDate="2016-04-05T15:23:28.004-0400" modificationDate="2016-04-05T15:15:55.067-0400" version="0.1" statusCode="" item="_39F7UvtjEeW8j_cFwDEObg" displayName="SQL2K">
+    <author href="../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_39F7UftjEeW8j_cFwDEObg" path=""/>
+  <TalendProperties:ContextItem xmi:id="_39F7UvtjEeW8j_cFwDEObg" property="_39F7UPtjEeW8j_cFwDEObg" state="_39F7UftjEeW8j_cFwDEObg" defaultContext="Default">
+    <context href="SQL2K_0.1.item#/"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

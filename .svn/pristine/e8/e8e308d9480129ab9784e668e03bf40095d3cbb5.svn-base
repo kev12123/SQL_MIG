@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_apto8OX7EeWhKKmVn-1HZQ" id="_apkfAOX7EeWhKKmVn-1HZQ" label="SQL2012_ASTSQLENT02DEV" creationDate="2016-03-09T08:32:49.279-0500" modificationDate="2016-04-20T11:56:59.584-0400" version="0.1" statusCode="" item="_apto8uX7EeWhKKmVn-1HZQ" displayName="SQL2012_ASTSQLENT02DEV">
+    <author href="../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-7J94PqYEeW_8LX78hiiUg" path=""/>
+  <TalendProperties:ContextItem xmi:id="_apto8uX7EeWhKKmVn-1HZQ" property="_apto8OX7EeWhKKmVn-1HZQ" state="_-7J94PqYEeW_8LX78hiiUg" defaultContext="Default">
+    <context href="SQL2012_ASTSQLENT02DEV_0.1.item#/0"/>
+    <context href="SQL2012_ASTSQLENT02DEV_0.1.item#/1"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

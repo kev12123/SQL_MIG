@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_nWorYAcUEeayuZkyE5xQEA" id="_nWe6YAcUEeayuZkyE5xQEA" label="Allfilepath" creationDate="2016-04-20T12:26:20.310-0400" modificationDate="2016-04-28T15:46:49.084-0400" version="0.1" statusCode="" item="_nWorYgcUEeayuZkyE5xQEA" displayName="Allfilepath">
+    <author href="../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_nWorYQcUEeayuZkyE5xQEA" path=""/>
+  <TalendProperties:ContextItem xmi:id="_nWorYgcUEeayuZkyE5xQEA" property="_nWorYAcUEeayuZkyE5xQEA" state="_nWorYQcUEeayuZkyE5xQEA" defaultContext="Default">
+    <context href="Allfilepath_0.1.item#/0"/>
+    <context href="Allfilepath_0.1.item#/1"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

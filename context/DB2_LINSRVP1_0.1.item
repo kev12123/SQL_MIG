@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="db2_p_host" prompt="db2_p_host?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_port" prompt="db2_p_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_username" prompt="db2_p_username?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_password" prompt="db2_p_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="db2_p_schema" prompt="db2_p_schema?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_database" prompt="db2_p_database?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="filename" prompt="filename?" promptNeeded="true" type="id_File" value="C:/TalendScript/eda_context.txt"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="dev">
+    <contextParameter comment="" name="db2_p_host" prompt="db2_p_host?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_port" prompt="db2_p_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_username" prompt="db2_p_username?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_password" prompt="db2_p_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="db2_p_schema" prompt="db2_p_schema?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="db2_p_database" prompt="db2_p_database?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="filename" prompt="filename?" promptNeeded="true" type="id_File" value="/opt/eda_data/eda_context.txt"/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_LtUxMPqLEeW_8LX78hiiUg" id="_LtSU8PqLEeW_8LX78hiiUg" label="HiveAggregate" creationDate="2016-04-04T13:32:19.779-0400" modificationDate="2016-04-04T13:32:19.779-0400" version="0.1" item="_LtUxMvqLEeW_8LX78hiiUg">
+    <author href="../../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LtUxMfqLEeW_8LX78hiiUg" path="Hive/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_LtUxMvqLEeW_8LX78hiiUg" property="_LtUxMPqLEeW_8LX78hiiUg" state="_LtUxMfqLEeW_8LX78hiiUg" system="true" eltName="Hive">
+    <content href="HiveAggregate_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

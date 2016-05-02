@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_C7T08A1CEeaYbOVG20i5vw" id="_C7Sm0A1CEeaYbOVG20i5vw" label="performloadconfig" creationDate="2016-04-28T09:06:39.678-0400" modificationDate="2016-04-28T09:10:10.976-0400" version="0.1" statusCode="" item="_C7T08g1CEeaYbOVG20i5vw" displayName="performloadconfig">
+    <author href="../../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_C7T08Q1CEeaYbOVG20i5vw" path="Transrequest/utils"/>
+  <TalendProperties:ProcessItem xmi:id="_C7T08g1CEeaYbOVG20i5vw" property="_C7T08A1CEeaYbOVG20i5vw" state="_C7T08Q1CEeaYbOVG20i5vw">
+    <process href="performloadconfig_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

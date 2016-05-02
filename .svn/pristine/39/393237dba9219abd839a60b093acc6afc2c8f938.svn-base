@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_iwcDEPsxEeWqzqKxFv7MBw" id="_iwaN4PsxEeWqzqKxFv7MBw" label="TransRequestExportShares" creationDate="2016-04-05T09:23:10.913-0400" modificationDate="2016-04-28T15:30:47.289-0400" version="0.1" statusCode="" item="_iwcDEvsxEeWqzqKxFv7MBw" displayName="TransRequestExportShares">
+    <author href="../../talend.project#_JbeDUvqLEeW_8LX78hiiUg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_iwcDEfsxEeWqzqKxFv7MBw" path="Transrequest"/>
+  <TalendProperties:ProcessItem xmi:id="_iwcDEvsxEeWqzqKxFv7MBw" property="_iwcDEPsxEeWqzqKxFv7MBw" state="_iwcDEfsxEeWqzqKxFv7MBw">
+    <process href="TransRequestExportShares_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
